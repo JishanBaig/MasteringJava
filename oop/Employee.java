@@ -5,7 +5,7 @@ import java.time.LocalDate; //added in JAVA 8
 public abstract class Employee {       //why abstract --> because it contains a method which is abstract..:)
 	                                   //abstract class <---> contains at least one abstract method.
 	                                   //               ----> Can not be instantiated.
-	                                   //               ----> Can have References (We surely motherfucking WILL)
+	                                   //               ----> Can have References (We surely WILL)
 	
 	public static final String DEFAULT_NAME = "UNKNOWN";
 	private static int nextId;
